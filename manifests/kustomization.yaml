@@ -1,0 +1,6 @@
+namespace: hadoop-cluster
+resources:
+- hadoop-cluster-namespace.yaml
+- hadoop-cluster-deploy.yaml
+- hadoop-cluster-svc.yaml
+- spark-deploy.yaml
